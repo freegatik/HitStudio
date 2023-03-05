@@ -1,0 +1,13 @@
+/* Welcome */
+"welcome.poweredBy" = "Powered by HITs";
+"welcome.title" = "Hit Studio";
+"welcome.subtitle" = "Edit photos using built-in image\nprocessing filters, try out an AI technology";
+"welcome.imageEditor" = "Image editor";
+"welcome.vectorEditor" = "Vector Editor";
+"welcome.cube3d" = "3D Cube";
+
+/* Gallery */
+"gallery.header.photos" = "Photos";
+"gallery.cta.startEditing" = "Start editing";
+"gallery.hint.title" = "Let's go!";
+"gallery.hint.subtitle" = "Just add your photo here\nand start editing";
