@@ -85,3 +85,7 @@ swiftlint lint --config .swiftlint.yml
 ```
 
 See [`.swiftlint.yml`](.swiftlint.yml) for included paths and rule tweaks.
+
+## License
+
+This codebase is released under the [MIT License](LICENSE). Use, modification, and distribution are permitted under the terms set out in `LICENSE`.
